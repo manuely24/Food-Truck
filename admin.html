@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Admin - Urban Tacos</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <h1>📊 Admin Dashboard</h1>
+    <nav>
+      <a href="index.html">Menú</a>
+      <a href="admin.html">Panel Admin</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="kpi-grid">
+      <div class="card"><p>Ventas Totales</p><h3 id="kpi-ventas">$0</h3></div>
+      <div class="card"><p>Ticket Promedio</p><h3 id="kpi-ticket">$0</h3></div>
+      <div class="card"><p>Hora Pico</p><h3 id="kpi-horapico">-</h3></div>
+      <div class="card"><p>Plato Estrella</p><h3 id="kpi-top">-</h3></div>
+    </section>
+
+    <section class="tables-section">
+      <div class="card">
+        <h3>🚨 Alerta Stock Bajo (< 10)</h3>
+        <ul id="lista-stock"></ul>
+      </div>
+      <div class="card">
+        <h3>📈 Top 5 Platos Más Vendidos</h3>
+        <ol id="top-platos"></ol>
+      </div>
+    </section>
+  </main>
+
+<script src="js/app.js"></script>
+</body>
+</html>

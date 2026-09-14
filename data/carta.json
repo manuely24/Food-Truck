@@ -1,0 +1,17 @@
+[
+  { "id_plato": "P01", "plato": "Taco al Pastor", "categoria": "Tacos", "insumo_critico": "Carne de Cerdo", "stock_actual": 25, "costo": 4500, "precio_venta": 9000 },
+  { "id_plato": "P02", "plato": "Taco de Birria", "categoria": "Tacos", "insumo_critico": "Carne de Res", "stock_actual": 8, "costo": 6000, "precio_venta": 12000 },
+  { "id_plato": "P03", "plato": "Taco Vegano", "categoria": "Tacos", "insumo_critico": "Champiñones", "stock_actual": 18, "costo": 4000, "precio_venta": 8500 },
+  { "id_plato": "P04", "plato": "Burrito Mixto", "categoria": "Burritos", "insumo_critico": "Tortilla Gigante", "stock_actual": 14, "costo": 8000, "precio_venta": 16000 },
+  { "id_plato": "P05", "plato": "Burrito Pollo", "categoria": "Burritos", "insumo_critico": "Pechuga de Pollo", "stock_actual": 20, "costo": 7000, "precio_venta": 14500 },
+  { "id_plato": "P06", "plato": "Quesadilla Clasica", "categoria": "Quesadillas", "insumo_critico": "Queso Doble Crema", "stock_actual": 5, "costo": 5000, "precio_venta": 10000 },
+  { "id_plato": "P07", "plato": "Quesadilla Champis", "categoria": "Quesadillas", "insumo_critico": "Champiñones", "stock_actual": 12, "costo": 5200, "precio_venta": 11000 },
+  { "id_plato": "P08", "plato": "Nachos Supreme", "categoria": "Entradas", "insumo_critico": "Totopos", "stock_actual": 30, "costo": 6500, "precio_venta": 15000 },
+  { "id_plato": "P09", "plato": "Guacamole con Totopos", "categoria": "Entradas", "insumo_critico": "Aguacate", "stock_actual": 7, "costo": 4000, "precio_venta": 9500 },
+  { "id_plato": "P10", "plato": "Agua de Horchata", "categoria": "Bebidas", "insumo_critico": "Arroz y Leche", "stock_actual": 40, "costo": 1500, "precio_venta": 4500 },
+  { "id_plato": "P11", "plato": "Agua de Jamaica", "categoria": "Bebidas", "insumo_critico": "Flor de Jamaica", "stock_actual": 35, "costo": 1200, "precio_venta": 4000 },
+  { "id_plato": "P12", "plato": "Gaseosa 350ml", "categoria": "Bebidas", "insumo_critico": "Botella Gaseosa", "stock_actual": 50, "costo": 1800, "precio_venta": 3500 },
+  { "id_plato": "P13", "plato": "Churros con Arequipe", "categoria": "Postres", "insumo_critico": "Arequipe", "stock_actual": 10, "costo": 2500, "precio_venta": 6500 },
+  { "id_plato": "P14", "plato": "Flan Casero", "categoria": "Postres", "insumo_critico": "Huevos y Leche", "stock_actual": 6, "costo": 2000, "precio_venta": 5500 },
+  { "id_plato": "P15", "plato": "Bowl Taco", "categoria": "Especiales", "insumo_critico": "Arroz Mexicano", "stock_actual": 15, "costo": 7500, "precio_venta": 17000 }
+]
